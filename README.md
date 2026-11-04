@@ -1,1 +1,1 @@
-# ssc-cuda-image-processing
+Proiectul urmărește accelerarea hardware și optimizarea performanței algoritmilor clasici de procesare de imagine pe un sistem mecatronic/embedded folosind arhitectura paralelă GPU (CUDA). Scopul principal este reducerea timpului de execuție și analiza comparativă între procesarea secvențială (CPU) și cea paralelă (GPU - Global Memory vs. Shared Memory).
