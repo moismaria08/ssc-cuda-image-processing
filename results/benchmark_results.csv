@@ -1,0 +1,5 @@
+Stage,Width,Height,Time_ms
+CPU_Grayscale,1152,2048,3.2062
+CPU_GaussianBlur,1152,2048,16.133
+CPU_SobelEdge,1152,2048,12.8212
+CPU_Total,1152,2048,32.1604
